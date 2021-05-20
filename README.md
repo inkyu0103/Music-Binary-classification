@@ -61,7 +61,7 @@
   
     - 라벨링 과정에서 슬픈 음악과 차분한 음악의 애매모호함 
     <br>
-      (Ex. [다린 - 가을](https://www.youtube.com/watch?v=1IApYpeWe8A&ab_channel=%EB%82%98%EC%9D%98%EC%9E%91%EA%B3%A0%EC%95%A0%ED%8B%8B%ED%95%9C%EC%A0%95%EC%9B%90%EB%82%98%EC%9D%98%EC%9E%91%EA%B3%A0%EC%95%A0%ED%8B%8B%ED%95%9C%EC%A0%95%EC%9B%90)은 슬픈 노래인가? 차분한 노래인가?)
+      (Ex. [다린 - 가을](https://www.youtube.com/watch?v=1IApYpeWe8A&ab_channel=%EB%82%98%EC%9D%98%EC%9E%91%EA%B3%A0%EC%95%A0%ED%8B%8B%ED%95%9C%EC%A0%95%EC%9B%90%EB%82%98%EC%9D%98%EC%9E%91%EA%B3%A0%EC%95%A0%ED%8B%8B%ED%95%9C%EC%A0%95%EC%9B%90) 은 슬픈 노래인가? 차분한 노래인가?)
 
     - 세분화를 하면 할 수록 더 많은 데이터가 요구됨. 같은 규모의 데이터를 그대로 사용하면, 예측과정에서 정답률이 많이 낮아지는 결과가 발생
 
