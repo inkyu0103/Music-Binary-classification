@@ -86,7 +86,6 @@
 ### (2) Spectrogram vs MelSpectrogram vs MFCC
   
   - CNN 모델 학습을 위한 이미지 종류 
-  <br> 
 
     |명칭|설명|
     |---|----|
@@ -113,7 +112,7 @@
        - CNN module을 구성하여 5번 반복 적용하였고, 마지막에는 FC 3개의 층을 거치는 방식으로 구성하였습니다.
         
        - CNN 모듈 구성
-        
+   
           |항목|설명|
           |---|---|
           |CNN층 (nn.Conv2d)|kernel size : 3 , stride : 1, padding : 1|
